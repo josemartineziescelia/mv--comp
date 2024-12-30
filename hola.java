@@ -24,6 +24,10 @@ public class hola {
 		System.out.println("----");
 		System.out.println("----");
 		System.out.println("3º cambio");
+		System.out.println("----");
+		System.out.println("----");
+		System.out.println("----");
+		System.out.println("4º cambio");
 	
 	}
 
