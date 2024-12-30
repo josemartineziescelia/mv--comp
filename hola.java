@@ -11,6 +11,10 @@ import java.io.*;
 
 public class hola {
 
+	
+	/** 
+	 * @param args[]
+	 */
 	public static void main(String args[]) {
 		System.out.println("hola");
         System.out.println("hola2");
@@ -34,4 +38,4 @@ public class hola {
 
 }
 
-//comentarios a la aplicación
+//comeaegweth ewty wety wtty wttyy 
