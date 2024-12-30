@@ -20,6 +20,10 @@ public class hola {
 		System.out.println("----");
 		System.out.println("----");
 		System.out.println("2º cambio");
+		System.out.println("----");
+		System.out.println("----");
+		System.out.println("----");
+		System.out.println("3º cambio");
 	
 	}
 
